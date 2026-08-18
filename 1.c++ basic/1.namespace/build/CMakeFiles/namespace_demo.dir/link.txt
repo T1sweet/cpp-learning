@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/namespace_demo.dir/mian.cpp.o  -o namespace_demo 

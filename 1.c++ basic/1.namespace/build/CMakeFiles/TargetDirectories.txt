@@ -1,3 +1,0 @@
-/home/cp/program/3.c++/1.c++ basic/1.namespace/build/CMakeFiles/rebuild_cache.dir
-/home/cp/program/3.c++/1.c++ basic/1.namespace/build/CMakeFiles/edit_cache.dir
-/home/cp/program/3.c++/1.c++ basic/1.namespace/build/CMakeFiles/main.dir
