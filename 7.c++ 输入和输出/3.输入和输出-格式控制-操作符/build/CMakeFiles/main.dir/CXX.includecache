@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cp/program/3.c++/7.c++ 输入和输出/3.输入和输出-格式控制-操作符/mian.cpp
+iostream
+-
+iomanip
+-
+

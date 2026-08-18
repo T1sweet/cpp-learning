@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/String.h
+
+/home/cp/program/3.c++/2.c++ class and object/6.deepcopy_gouzao/src/String.cpp
+String.h
+/home/cp/program/3.c++/2.c++ class and object/6.deepcopy_gouzao/src/String.h
+cstring
+-
+iostream
+-
+

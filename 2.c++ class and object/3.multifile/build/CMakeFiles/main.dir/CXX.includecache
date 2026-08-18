@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Point.h
+
+/home/cp/program/3.c++/2.c++ class and object/3.multifile/mian.cpp
+iostream
+-
+Point.h
+/home/cp/program/3.c++/2.c++ class and object/3.multifile/Point.h
+
+/home/cp/program/3.c++/2.c++ class and object/3.multifile/src/Point.cpp
+Point.h
+/home/cp/program/3.c++/2.c++ class and object/3.multifile/src/Point.h
+iostream
+-
+

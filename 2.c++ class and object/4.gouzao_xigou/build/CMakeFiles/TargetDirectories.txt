@@ -1,0 +1,3 @@
+/home/cp/program/3.c++/2.c++ class and object/4.gouzao_xigou/build/CMakeFiles/rebuild_cache.dir
+/home/cp/program/3.c++/2.c++ class and object/4.gouzao_xigou/build/CMakeFiles/edit_cache.dir
+/home/cp/program/3.c++/2.c++ class and object/4.gouzao_xigou/build/CMakeFiles/main.dir

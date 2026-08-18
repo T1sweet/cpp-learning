@@ -1,0 +1,3 @@
+/home/cp/program/3.c++/2.c++ class and object/7.this/build/CMakeFiles/rebuild_cache.dir
+/home/cp/program/3.c++/2.c++ class and object/7.this/build/CMakeFiles/edit_cache.dir
+/home/cp/program/3.c++/2.c++ class and object/7.this/build/CMakeFiles/main.dir

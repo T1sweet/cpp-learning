@@ -1,0 +1,3 @@
+/home/cp/program/3.c++/7.c++ 输入和输出/1.输入和输出-重定向/build/CMakeFiles/rebuild_cache.dir
+/home/cp/program/3.c++/7.c++ 输入和输出/1.输入和输出-重定向/build/CMakeFiles/edit_cache.dir
+/home/cp/program/3.c++/7.c++ 输入和输出/1.输入和输出-重定向/build/CMakeFiles/main.dir

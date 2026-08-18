@@ -1,0 +1,3 @@
+/home/cp/program/3.c++/2.c++ class and object/10.类的友元/build/CMakeFiles/rebuild_cache.dir
+/home/cp/program/3.c++/2.c++ class and object/10.类的友元/build/CMakeFiles/edit_cache.dir
+/home/cp/program/3.c++/2.c++ class and object/10.类的友元/build/CMakeFiles/main.dir

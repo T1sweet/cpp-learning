@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Point.h
+
+/home/cp/program/3.c++/2.c++ class and object/4.gouzao_xigou/mian.cpp
+iostream
+-
+Point.h
+/home/cp/program/3.c++/2.c++ class and object/4.gouzao_xigou/Point.h
+
